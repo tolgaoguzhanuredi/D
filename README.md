@@ -1,5 +1,7 @@
 Title: Snoop Dogg NFT Minter
 
+![image](https://user-images.githubusercontent.com/70442500/222992806-50a2e858-b7ea-4f09-b11f-0b16be4febe7.png)
+
 Overview: The Snoop Dogg NFT Minter is a decentralized application that allows users to mint NFTs with a Snoop Dogg theme. The purpose of the dApp is to provide a platform for Snoop Dogg fans to create and trade unique digital collectibles.
 
 Problem: Traditional collectibles, such as physical trading cards, can be difficult to authenticate and may have limited distribution. Additionally, the process of minting NFTs can be complicated and require technical knowledge. The Snoop Dogg NFT Minter aims to solve these problems by providing an accessible and easy-to-use platform for creating and trading NFTs.
