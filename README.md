@@ -35,8 +35,8 @@ Solana offers fast transaction times and low fees, making it an ideal platform f
 Conclusion:
 The Snoop Dogg NFT Minter provides a unique opportunity for Snoop Dogg fans to create and trade digital collectibles in a secure and accessible way. The dApp leverages the benefits of the Solana network to provide fast and reliable transactions, making it an ideal platform for NFT creation and trading.
 
-Getting Started
+Getting Started:
 
-To run the development server:
+To run the development server
 yarn
 yarn run dev
