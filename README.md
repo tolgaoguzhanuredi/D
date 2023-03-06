@@ -38,5 +38,7 @@ The Snoop Dogg NFT Minter provides a unique opportunity for Snoop Dogg fans to c
 Getting Started:
 
 To run the development server
+
 yarn
+
 yarn run dev
